@@ -46,7 +46,7 @@ Please make sure to update tests as appropriate.
 
 [![License](http://img.shields.io/:license-mit-green.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](https://github.com/GabrielFraga962/NLW-IA/blob/main/LICENSE)**;
+- **[MIT license](https://github.com/GabrielFraga962/Travel-App-Hilink/blob/main/LICENSE)**;
 - Copyright 2024 © <a href="https://github.com/GabrielFraga962" target="_blank">Gabriel S. Fraga</a>.
 
 
